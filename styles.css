@@ -1,0 +1,14 @@
+legend{
+  color: rgb(18, 18, 97);
+  font-size: x-large;
+}
+label[for]{
+  background-color: yellow;
+}
+.N{
+  background-color: green;
+}
+#disp{
+  color:brown;
+  font-size: 24px;
+}
